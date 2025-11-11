@@ -2,8 +2,8 @@
 
 Este arquivo é um modelo para o relatório em PDF a ser enviado.
 
-- Projeto: prova-ci-nome-sobrenome
-- Autor: Seu Nome
+- Projeto: prova-ci-Aliceu-Fontana
+- Autor: Aliceu Donizete Fontana Junior
 - Descrição: Projeto simples com função `sum` e testes Jest. O pipeline do GitHub Actions executa os testes em push/pull_request para `main`.
 
 ## Como reproduzir localmente
